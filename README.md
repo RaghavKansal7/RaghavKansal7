@@ -9,7 +9,7 @@ Web Developer
 Hello, I'm Raghav. I'm a front-end developer who is passionate about learning new tech. I enjoy building web apps. Right now, my primary focus is React (Next.js).
 
 * 🌍  I'm based in Malerkotla, Punjab, India.
-* 🖥️  See my portfolio at [Raghav]([https://raghavportfolio7.netlify.app/])
+* 🖥️  See my portfolio at [Raghav](https://raghavportfolio7.netlify.app/)
 * ✉️  You can contact me at [raghavkansal1545@gmail.com](mailto:raghavkansal1545@gmail.com)
 * 🧠  I'm learning Data Structures and Algorithms. 
 
